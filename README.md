@@ -11,7 +11,7 @@ didn’t use class labels since K-means is an unsupervised algorithm and does no
 need class labels. Scatter plot of the datasets given in Figure 1.
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/datasets.png" width=700><br>
+<img src="datasets.png" width=700><br>
   Figure 1: Three datasets.
 </p>
 
@@ -44,26 +44,26 @@ following conﬁgurations:
 
 Clustering results for each conﬁguration given as follows. 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset1/k_3/animation/animation.gif" width=500><br>
+<img src="dataset1/k_3/animation/animation.gif" width=500><br>
   Figure 2: Change of centroids place for ﬁrst dataset when k = 3.
 </p>
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset1/k_3/figure_7.png" width=500><br>
+<img src="dataset1/k_3/figure_7.png" width=500><br>
   Figure 3: Objective function value vs iteration number (Dataset1, k=3).
 </p>
 
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset1/k_7/animation/animation.gif" width=500><br>
+<img src="dataset1/k_7/animation/animation.gif" width=500><br>
   Figure 4: Change of centroids place for ﬁrst dataset when k = 7.
 </p>
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset1/k_7/figure_31.png" width=500><br>
+<img src="dataset1/k_7/figure_31.png" width=500><br>
   Figure 5: Objective function value vs iteration number (Dataset1, k=7).
 </p>
 
@@ -71,49 +71,49 @@ Clustering results for each conﬁguration given as follows.
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset2/k_2/animation/animation.gif" width=500><br>
+<img src="dataset2/k_2/animation/animation.gif" width=500><br>
   Figure 6: Change of centroids place for second dataset when k = 2.
 </p>
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset2/k_2/figure_21.png" width=500><br>
+<img src="dataset2/k_2/figure_21.png" width=500><br>
   Figure 7: Objective function value vs iteration number (Dataset2, k=2).
 </p>
 
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset2/k_5/animation/animation.gif" width=500><br>
+<img src="dataset2/k_5/animation/animation.gif" width=500><br>
   Figure 8: Change of centroids place for second dataset when k = 5.
 </p>
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset2/k_5/figure_50.png" width=500><br>
+<img src="dataset2/k_5/figure_50.png" width=500><br>
   Figure 9: Objective function value vs iteration number (Dataset2, k=5).
 </p>
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset3/k_3/animation/animation.gif" width=500><br>
+<img src="dataset3/k_3/animation/animation.gif" width=500><br>
   Figure 10: Change of centroids place for third dataset when k = 3.
 </p>
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset3/k_3/figure_20.png" width=500><br>
+<img src="dataset3/k_3/figure_20.png" width=500><br>
   Figure 11: Objective function value vs iteration number (Dataset3, k=3).
 </p>
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset3/k_8/animation/animation.gif" width=500><br>
+<img src="dataset3/k_8/animation/animation.gif" width=500><br>
   Figure 12: Change of centroids place for third dataset when k = 8.
 </p>
 
 
  <p align="center" style="text-align:center"> 
-<img src="outputs/dataset3/k_8/figure_37.png" width=500><br>
+<img src="dataset3/k_8/figure_37.png" width=500><br>
   Figure 13: Objective function value vs iteration number (Dataset3, k=8).
 </p>
 
