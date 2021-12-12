@@ -1,9 +1,8 @@
-# KMeans-Clustering-Unsupervised-ML-Projects
-Here are the ML projects for Unsupervised Learning using k-means clustering algorithm. [ k-means clustering:  is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.]
+<!-- # KMeans-Clustering-Unsupervised-ML-Projects
 
-# K-means
+Here are the ML projects for Unsupervised Learning using k-means clustering algorithm. [ k-means clustering:  is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.] -->
 
-This is third assignment of Introduction to Machine Learning (COMP 462) course. In this assignment, I implement  K-means clustering algorithm to cluster given three different datasets.
+# K-means 
 
 ## Datasets
 The dataset ﬁles contain features (in 2D) and class labels. In this assignment, I
